@@ -1,0 +1,7 @@
+{
+	"DeathSource": {
+		"Player": "{0} oleh {2} {1}.",
+		"NPC": "{0} oleh {1}.",
+		"Projectile": "{0} oleh {1}."
+	}
+}

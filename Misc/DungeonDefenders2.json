@@ -1,0 +1,12 @@
+{
+	"DungeonDefenders2": {
+		"InvasionStart": "The old one's army is approaching!",
+		"InvasionProgressTitle": "Old One's Army",
+		"InvasionWin": "The old one's army has been defeated!",
+		"InvasionLose": "The old one's army proves victorious...",
+		"WaveComplete": "Wave Complete!",
+		"WaveCompleteFirst": "Wave Complete! Interact with the Crystal to rush next wave!",
+		"CantSummonTower": "It doesn't seem to work without an Etheria Crystal nearby...",
+		"BartenderWarning": "The eternia crystal rejects this area and pops away instantly, the Tavernkeep mentioned it should rest in a large flat open area..."
+	}
+}

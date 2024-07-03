@@ -1,0 +1,754 @@
+{
+	"ItemTooltip": {
+		
+		
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		"LihzahrdPressurePlate": "Mengaktifkan kabel saat pemain menginjaknya",
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+
+
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+
+		
+		
+		"IchorTorch": "Dapat dipasang dalam air",
+		
+		
+		
+
+		"BubbleMachine": "Meniup gelembung",
+		"BubbleWand": "Meniup gelembung",
+		
+
+		
+		"LargeAmethyst": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeTopaz": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeSapphire": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeEmerald": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeRuby": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeDiamond": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		"LargeAmber": "Untuk Capture the Gem. Item ini akan jatuh ketika kamu mati",
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		"JungleKeyMold": "Used for crafting a Jungle Key",
+		"CorruptionKeyMold": "Used for crafting a Corruption Key",
+		"CrimsonKeyMold": "Used for crafting a Crimson Key",
+		"HallowedKeyMold": "Used for crafting a Hallowed Key",
+		"FrozenKeyMold": "Used for crafting a Frozen Key",
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		"ClayPot": "Menumbuhkan tanaman",
+		
+		
+		"RestorationPotion": "Cooldown ramuan dikurangi",
+
+		
+		
+
+		
+
+
+		
+		
+		
+
+		
+		
+		
+		
+		
+
+		
+		"HighTestFishingLine": "Senar pancing tak akan putus",
+		"AnglerEarring": "Increases fishing power by 10",
+		"TackleBox": "Mengurangi kemungkinan penggunaan umpan",
+
+		
+		
+		
+		
+		"Glowstick": "Menyala dalam air",
+
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		"CursedTorch": "Dapat dipasang dalam air",
+		
+
+		"RedPressurePlate": "Mengaktifkan kabel saat diinjak",
+		
+		
+		"GreenPressurePlate": "Mengaktifkan kabel saat diinjak",
+		"GrayPressurePlate": "Mengaktifkan kabel saat pemain menginjaknya",
+		"BrownPressurePlate": "Mengaktifkan kabel saat pemain menginjaknya",
+		
+		
+		
+		
+		
+		"MusicBox": "Dapat merekam lagu",
+		"Explosives": "Meledak ketika diaktifkan dengan kabel",
+		"InletPump": "Mengirim cairan ke pompa outlet",
+		"OutletPump": "Menerima cairan dari pompa inlet",
+		"Timer1Second": "Mengaktifkan kabel tiap detik",
+		"Timer3Second": "Mengaktifkan kabel tiap 3 detik",
+		"Timer5Second": "Mengaktifkan kabel tiap 5 detik",
+		
+
+		
+		
+		
+		
+		
+		
+		
+		"Torch": "Memberikan cahaya",
+		
+		"Actuator": "Enables solid blocks to be toggled on and off",
+		"Chain": "Dapat dipanjat",
+		
+		"BluePressurePlate": "Mengaktifkan kabel saat pemain menginjaknya",
+		"YellowPressurePlate": "Mengaktifkan kabel saat sesuatu yang bukan pemain menginjaknya",
+
+		"DiscountCard": "Shops prices lowered by 20%",
+		
+
+		
+		
+		
+		
+		
+				
+
+		"LandMine": "Meledak saat diinjak",
+		
+		
+		
+
+		"Rope": "Dapat dipanjat",
+		"Campfire": "Regenerasi health meningkat ketika dekat api unggun",
+
+		
+		"RopeCoil": "Throw to create a climbable line of rope",
+		
+		"ActuationAccessory": "Secara otomatis memasangkan actuator pada obyek yang diletakkan",
+		"ActuationRod": "Mengaktifkan Actuator",
+
+		"AnglerTackleBag": "Fishing line will never break, decreases chance of bait consumption, increases fishing power by 10",
+		
+		
+
+		"BoneCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		
+		"BoosterTrack": "Pukul dengan palu untuk mengubah arahnya",
+		"BottomlessBucket": "Mengandung air dalam jumlah yang tak terbatas\nDapat dituangkan",
+		
+		"CoinRing": "Meningkatkan jangkauan pengambilan koin\nMusuh terkadang menjatuhkan koin saat diserang",
+		"CordageGuide": "Allows the collection of Vine Rope from vines",
+		
+		
+		"CursedCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"DemonCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"DemonHeart": "Secara permanen meningkatkan jumlah slot aksesori",
+		
+
+
+
+		
+		"FrozenCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+
+		"GemLockAmber": "<right> untuk memasang atau melepas {$ItemName.LargeAmber}",
+		"GemLockAmethyst": "<right> untuk memasang atau melepas {$ItemName.LargeAmethyst}",
+		"GemLockDiamond": "<right> untuk memasang atau melepas {$ItemName.LargeDiamond}",
+		"GemLockEmerald": "<right> untuk memasang atau melepas {$ItemName.LargeEmerald}",
+		"GemLockRuby": "<right> untuk memasang atau melepas {$ItemName.LargeRuby}",
+		"GemLockSapphire": "<right> untuk memasang atau melepas {$ItemName.LargeSapphire}",
+		"GemLockTopaz": "<right> untuk memasang atau melepas {$ItemName.LargeTopaz}",
+
+
+		"GoldRing": "Meningkatkan jangkauan pengambilan koin",
+		"GreedyRing": "Increases coin pickup range and shops prices lowered by 20%\nHitting enemies will sometimes drop extra coins",
+		"IchorCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+
+
+		
+		"LogicGateLamp_Faulty": "Place this on logic gate lamps to randomize the activation",
+		"LogicGateLamp_Off": "Place this on logic gates to add checks",
+		"LogicGateLamp_On": "Place this on logic gates to add checks",
+		"LogicGate_NOR": "Judges logic gate lamps above it\nActivates when no lamp is on, deactivates otherwise",
+		"LogicGate_NXOR": "Judges logic gate lamps above it\nActivates when the total 'on' lamps is not one, deactivates otherwise\nAlso often called NXOR",
+		"LogicGate_OR": "Judges logic gate lamps above it\nActivates when any lamp is on, deactivates otherwise",
+		"LogicGate_XOR": "Judges logic gate lamps above it\nActivates when only one lamp is on, deactivates otherwise",
+		"LogicSensor_Above": "Activates whenever players are over it, deactivates otherwise",
+		"LogicSensor_Honey": "Activates whenever occupied by honey, deactivates otherwise",
+		"LogicSensor_Lava": "Activates whenever occupied by lava, deactivates otherwise",
+		"LogicSensor_Liquid": "Activates whenever occupied by liquid, deactivates otherwise",
+		"LogicSensor_Moon": "Activates once night starts",
+		"LogicSensor_Sun": "Activates once day starts",
+		"LogicSensor_Water": "Activates whenever occupied by water, deactivates otherwise",
+
+		
+		
+		
+
+
+
+
+		"MinecartTrack": "Hammer end piece to change bumper style\nHammer intersections to change direction",
+		
+		
+		
+
+
+
+
+
+
+		
+		"PixelBox": "Separates wire paths\nToggle lights with simultaneous crossed signals",
+		"PressureTrack": "Not for use on slopes",
+		"ProjectilePressurePad": "Mengaktifkan kabel saat sebuah proyektil menyentuhnya",
+		"RainbowCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+
+
+		
+
+		"SilkRope": "Dapat dipanjat",
+		"SilkRopeCoil": "Throw to create a climbable line of silk rope",
+		
+		
+
+		
+		"SpelunkerGlowstick": "Exposes nearby treasure",
+		
+		
+
+		"Sundial": "Allows time to fast forward to dawn one day per week",
+		"SuperAbsorbantSponge": "Capable of soaking up an endless amount of water",
+		
+		"UltraBrightCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		
+		"VineRope": "Dapat dipanjat",
+		"VineRopeCoil": "Throw to create a climbable line of vine rope",
+		
+		
+		
+		"WeaponRack": "<right> untuk memajan senjata pada weapon rack",
+		"WebRope": "Dapat dipanjat",
+		"WebRopeCoil": "Throw to create a climbable line of web rope",
+		"WeightedPressurePlateCyan": "Activates when a player steps on or off it",
+		"WeightedPressurePlateOrange": "Activates when a player steps on or off it",
+		"WeightedPressurePlatePink": "Activates when a player steps on or off it",
+		"WeightedPressurePlatePurple": "Activates when a player steps on or off it",
+		
+		"WireBulb": "Lights up bulbs for each wire color",
+		"WirePipe": "Separates wire paths\nIt's also hammerable!",
+
+				
+		
+
+
+		
+		
+		
+		
+		"AsphaltBlock": "Meningkatkan kecepatan lari",
+		
+
+
+		"LogicGate_AND": "Activates when all lamps are on, deactivates otherwise",
+		"LogicGate_NAND": "Activates when not all lamps are on, deactivates otherwise",
+		"DD2ElderCrystalStand": "Holds the Eternia Crystal\nInteract while carrying an Eternia Crystal to summon Etheria's portals\nInteract with the crystal to skip extra time between waves",
+		"DD2ElderCrystal": "Pasang pada {$ItemName.DD2ElderCrystalStand} untuk memulai Old One's Army",
+		"DefenderMedal": "Mata Uang untuk Tavernkeep",
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		"HeartLantern": "Increases life regeneration when placed nearby",
+		"StarinaBottle": "Increases mana regeneration when placed nearby",
+
+		"Cloud": "Mencegah fall damage",
+		"RainCloud": "Mencegah fall damage",
+		"SnowCloudBlock": "Mencegah fall damage",
+
+		
+		
+		
+		
+		
+
+		
+		"Mannequin": "<right> to customize attire",
+        "Womannquin": "<right> to customize attire",
+        "HatRack": "<right> untuk menaruh topi dan helm",
+        "DeadMansChest": "Mengaktifkan kabel saat dibuka",
+
+        "GolfCup": "Aim to sink your golf ball in the cup\nLets everyone know how well you did",
+		"LawnMower": "Memangkas rumput [Pure] dan Hallow\nMusuh lebih jarang muncul pada rumput yang terpangkas", 
+        "GolfTee": "<right> untuk meletakkan bola golf",
+        "AntiPortalBlock": "Portal tidak dapat terbentuk pada permukaan blok ini",
+
+        "GolfWhistle": "Returns your last hit Golf Ball to its previous position\nHas a one stroke penalty",
+      
+		
+		"MusicBoxDayRemix": "Brought to you by Xenon and DJ Sniper",
+
+
+
+		"OrangePressurePlate": "Mengaktifkan kabel [dan] hancur saat pemain menginjaknya",
+		
+		
+		
+		
+
+
+		"MysticCoilSnake": "Memanggil ular tali",
+		"ItemFrame": "<right> untuk memajang item pada item frame",
+		"FoodPlatter": "<right> untuk menaruh makanan pada piring",
+		
+
+		
+
+		
+		"PortableStool": "Tekan Atas untuk menjangkau lebih tinggi",
+
+		"CoralTorch": "Dapat dipasang dalam air",
+
+		
+
+		
+		
+
+		"ArrowSign": "<right> untuk mengubah arahnya",
+		"PaintedArrowSign": "<right> untuk mengubah arahnya",
+
+		"SpectreGoggles": "Memberikan Echo Sight, membuat blok tersembunyi menjadi terlihat",
+
+		
+		
+		"SandcastleBucket": "Membuat istana pasir",
+		"EchoBlock": "Hanya terlihat dengan Echo Sight",
+		
+		
+		"TimerOneHalfSecond": "Mengaktifkan kabel tiap setengah detik",
+		"TimerOneFourthSecond": "Mengaktifkan kabel tiap seperempat detik",
+
+		"FloatingTube": "Membuat penggunanya mengapung di air",
+
+		"CrackedBlueBrick": "May break when stepped on",
+		"CrackedGreenBrick": "May break when stepped on",
+		"CrackedPinkBrick": "May break when stepped on",
+		
+		
+
+		
+		"HellMinecart": "Provides 7 seconds of immunity to lava",
+
+		
+
+		
+
+		
+
+		"BambooLeaf": "Summons a baby red panda",
+
+
+		
+		
+		
+
+		
+
+		"FogMachine": "Billows out fog",
+
+		
+
+		
+		
+		"BloodFishingRod": "Increased chance to fish up enemies during a Blood Moon",
+
+		
+
+		
+		
+
+		
+
+		
+		"DeadlySphereStaff": "Summons a deadly sphere to fight for you",
+		"DesertCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"CoralCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"CorruptCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"CrimsonCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"HallowedCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"JungleCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"EmptyBucket": "Dapat digunakan untuk menciduk sedikit cairan",
+		"WaterBucket": "Mengandung air\nDapat dituangkan",
+		"LavaBucket": "Mengandung lava\nDapat dituangkan",
+		"HoneyBucket": "Mengandung madu\nDapat dituangkan",
+		"PiggyBank": "Dapat digunakan untuk menyimpan barangmu\nBarang yang disimpan hanya dapat diakses olehmu",
+		"Safe": "Dapat digunakan untuk menyimpan barangmu\nBarang yang disimpan hanya dapat diakses olehmu",
+		"DefendersForge": "Dapat digunakan untuk menyimpan barangmu\nBarang yang disimpan hanya dapat diakses olehmu",
+		"VoidVault": "Dapat digunakan untuk menyimpan barangmu\nBarang yang disimpan hanya dapat diakses olehmu\nAkan mengandung item yang masuk void bag",
+		"MudBud": "Memanggil Plantero kecil",
+		
+		
+
+		"BreakerBlade": "Menimbulkan lebih banyak damage kepada musuh yang belum terluka",
+		
+		
+		
+		
+		
+		
+
+		"CritterShampoo": "Menerapkan pewarna pada minion",
+		"DontHurtCrittersBook": "Mencegahmu dari melukai [critter] ketika di inventory\n<right> untuk menonaktifkan efeknya",
+		
+		"FairyGlowstick": "Hovers when thrown\nWorks when wet",
+		
+		"Football": "Try to catch it!",
+
+		
+		"BottomlessLavaBucket": "Contains an endless amount of lava\nCan be poured out",
+		
+		
+		"LicenseCat": "Use to adopt a cat for your town\nAlready have a cat?\nUse additional licenses to activate the Pet Exchange Program!\nFind the perfect fit for you and your cat!",
+		"LicenseDog": "Use to adopt a dog for your town\nAlready have a dog?\nUse additional licenses to activate the Pet Exchange Program!\nFind the perfect fit for you and your dog!",
+		"LavaAbsorbantSponge": "Capable of soaking up an endless amount of lava",
+		"FlameWaderBoots": "Provides the ability to walk on water, honey & lava\nGrants immunity to fire blocks and 7 seconds of immunity to lava",
+		
+		
+		
+		
+		
+		
+		
+		"LicenseBunny": "Use to adopt a bunny for your town\nAlready have a bunny?\nUse additional licenses to activate the Pet Exchange Program!\nFind the perfect fit for you and your bunny!",
+		
+		
+		"AccentSlab": "A Stone Slab variant that merges differently with nearby blocks\nFavored by advanced builders",
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		"TreasureMagnet": "Meningkatkan jangkauan pengambilan item",
+		
+		
+
+		
+		
+		
+		
+		
+
+		"TorchGodsFavor": "Unlocks an ability toggle to the left of the inventory\nWhen enabled normal torches change according to your biome",
+		"LavaproofTackleBag": "Fishing line will never break, decreases chance of bait consumption, increases fishing power by 10\nAllows fishing in lava",
+		
+		
+		
+		"RainbowCursor": "Causes your mouse cursor to have shifting rainbow colors",
+		
+		
+		
+		
+
+		
+		
+		
+		"PaintingWilson": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
+		"PaintingWillow": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
+		"PaintingWendy": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
+		"PaintingWolfgang": "{$PaintingArtist.Klei}\nAdapted by J. T. Kjexrud",
+		"HandOfCreation": "Increases mining speed by 25%\nIncreases block & wall placement speed\nIncreases block placement & tool range by 3\nIncreases pickup range for items\nAutomatically paints or coats placed objects\nHold Up to reach higher",
+		
+		
+		"BottledHoney": "Improves natural healing for a short time",
+		
+
+		
+		"Clentaminator2": "Creates and destroys biomes when sprayed\nUses colored solution\n33% chance to save ammo",
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+		
+
+		
+
+		"BiomeSightPotion": "Shows the location of infected blocks",
+
+		"FishingBobber": "Increases fishing power by 10",
+		"FishingBobberGlowingStar": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingLava": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingKrypton": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingXenon": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingArgon": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingViolet": "Increases fishing power by 10\nYour bobber now glows",
+		"FishingBobberGlowingRainbow": "Increases fishing power by 10\nYour bobber now glows",
+		
+		
+		"MushroomCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"EchoWall": "Hanya terlihat dengan Echo Sight",
+		"EchoPlatform": "Hanya terlihat dengan Echo Sight",
+		"HoneyAbsorbantSponge": "Capable of soaking up an endless amount of honey",
+		"UltraAbsorbantSponge": "Capable of soaking up an endless amount of liquid",
+		"BottomlessHoneyBucket": "Contains an endless amount of honey\nCan be poured out",
+		"WarTable": "<right> to have more sentries",
+		"HiveFive": "Summons killer bees after striking your foe",
+		"ChlorophyteExtractinator": "Placing silt\/slush\/fossil piles into the extractinator turns them into something more useful\nPlace contaminated blocks into the extractinator to purify them\nOther items placed inside may have interesting effects",
+		
+		"DontHurtNatureBook": "Prevents you from accidentally destroying the environment while in the inventory\n<right> to deactivate effects",
+		
+		"WolfMountItem": "Grants the wearer the power of the wolf",
+
+		"PlacePainting": "'The Terraria Community'",
+		"DontHurtComboBook": "Mencegahmu dari melukai [critter] ketika di inventory\nMencegahmu dari merusak [the environment] dengan tidak sengaja ketika di inventory\n<right> untuk menonaktifkan efeknya",
+		"AcornAxe": "Creates grass on dirt\nIncreases alchemy plant collection when used to gather\nPlants acorns when cutting down trees",
+		
+		"ShadowCandle": "Nullifies the peaceful benefits of towns",
+		"TNTBarrel": "Highly volatile",
+		"ChestLock": "Can be used to lock some chests",
+		"HorseshoeBundle": "Allows the holder to quadruple jump\nIncreases jump height and negates fall damage",
+		"Batfish": "'Caught in Underground & Caverns'",
+		"BumblebeeTuna": "'Caught in Honey'",
+		"Catfish": "'Caught in Jungle Surface'",
+		"Cloudfish": "'Caught in Sky Lakes'",
+		"Cursedfish": "'Caught in Corruption'",
+		"Dirtfish": "'Caught in Surface & Underground'",
+		"DynamiteFish": "'Caught in Surface'",
+		"EaterofPlankton": "'Caught in Corruption'",
+		"FallenStarfish": "'Caught in Sky Lakes & Surface'",
+		"TheFishofCthulu": "'Caught in Sky Lakes & Surface'",
+		"Fishotron": "'Caught in Caverns'",
+		"Harpyfish": "'Caught in Sky Lakes & Surface'",
+		"Hungerfish": "'Caught in Caverns'",
+		"Ichorfish": "'Caught in Crimson'",
+		"Jewelfish": "'Caught in Underground & Caverns'",
+		"MirageFish": "'Caught in Underground Hallow'",
+		"MutantFlinxfin": "'Caught in Underground Tundra'",
+		"Pengfish": "'Caught in Surface Tundra'",
+		"Pixiefish": "'Caught in Surface Hallow'",
+		"Spiderfish": "'Caught in Underground & Caverns'",
+		"UnicornFish": "'Caught in Hallow'",
+		"GuideVoodooFish": "'Caught in Caverns'",
+		"Wyverntail": "'Caught in Sky Lakes'",
+		"ZombieFish": "'Caught in Surface'",
+		"AmanitaFungifin": "'Caught in Glowing Mushroom Fields'",
+		"Angelfish": "'Caught in Sky Lakes'",
+		"BloodyManowar": "'Caught in Crimson'",
+		"Bonefish": "'Caught in Underground & Caverns'",
+		"Bunnyfish": "'Caught in Surface'",
+		"CapnTunabeard": "'Caught in Ocean'",
+		"Clownfish": "'Caught in Ocean'",
+		"DemonicHellfish": "'Caught in Caverns'",
+		"Derpfish": "'Caught in Jungle Surface'",
+		"Fishron": "'Caught in Underground Tundra'",
+		"InfectedScabbardfish": "'Caught in Corruption'",
+		"Mudfish": "'Caught in Jungle'",
+		"TropicalBarracuda": "'Caught in Jungle Surface'",
+		"TundraTrout": "'Caught in Surface Tundra'",
+		"Slimefish": "'Caught in Surface Forest'",
+		"ScarabFish": "'Caught in Desert'",
+		"ScorpioFish": "'Caught in Desert'",
+		
+		
+		"RodOfHarmony": "Teleports you to the position of the mouse",
+		
+		
+		
+		"GasTrap": "Releases poisonous gas when a container it is in is opened",
+		"ReflectiveShades": "Memberikan kekebalan terhadap {$BuffName.Darkness} dan {$BuffName.Stoned}",
+		"EchoMonolith": "Memberikan Echo Sight, membuat blok tersembunyi menjadi terlihat",
+		
+		"ShimmerCloak": "Immunity to Shimmer Phasing\nHold Down to Phase while submerged in Shimmer",
+		
+		"SpiderWallUnsafe": "An egg-infested chunk of Spider wall that will spawn spiders",
+		"BlueBrickWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"BlueSlabWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"BlueTiledWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"PinkBrickWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"PinkSlabWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"PinkTiledWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"GreenBrickWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"GreenSlabWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"GreenTiledWallUnsafe": "A cursed segment of Dungeon wall that will spawn monsters",
+		"BottomlessShimmerBucket": "Contains an endless amount of Shimmer\nCan be poured out",
+		"SandstoneWallUnsafe": "A dangerous slab of sand wall that will spawn monsters",
+		"HardenedSandWallUnsafe": "A dangerous slab of sand wall that will spawn monsters",
+		"LihzahrdWallUnsafe": "An ancient segment of Temple wall that will spawn Lihzahrds",
+		"SpelunkerFlare": "Exposes nearby treasure",
+		"Moondial": "Allows time to fast forward to dusk one day per week",
+
+		
+
+		
+		"Fertilizer": "Causes saplings to instantly grow into trees",
+		
+		
+		"ShimmerCampfire": "Regenerasi health meningkat ketika dekat api unggun",
+		"DontHurtCrittersBookInactive": "Mencegahmu dari melukai [critter] ketika di inventory\nEfeknya saat ini tak aktif, <right> untuk mengaktifkannya",
+		"DontHurtNatureBookInactive": "Mencegahmu dari merusak [the environment] dengan tidak sengaja ketika di inventory\nEfeknya saat ini tak aktif, <right> untuk mengaktifkannya",
+		"DontHurtComboBookInactive": "Mencegahmu dari melukai [critter] ketika di inventory\nMencegahmu dari merusak [the environment] dengan tidak sengaja ketika di inventory\nEfeknya saat ini tak aktif, <right> untuk mengaktifkannya"
+		
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Error": {
+		"Error": "Error",
+		"LaunchFromSteam": "Please launch the game from your Steam client.",
+		"ServerCrash": "Server crash: {0}\n{1}\n\nPlease send crashlog.txt to support@terraria.org",
+		"LoadFailed": "Load failed!",
+		"LoadFailedNoBackup": "Load failed!  No backup found.",
+		"InvalidLobbyFlag": "-lobby flag used without \"{0}\" or \"{1}\". Ignoring it.",
+		"CaptureError": "An error occurred while saving the capture. Attempting again...",
+		"UnableToCapture": "Unable to capture.",
+		"UnableToWritePreferences": "Unable to write file at: {0}",
+		"UnableToLoadWorld": "Unable to load world:",
+		"BadHeaderBufferOverflow": "Bad header lead to a read buffer overflow.",
+		"ExceptionNormal": "   Exception normal: {0}",
+		"TriedToRunServerTwice": "Tried to run two servers on the same PC",
+		"DataSentAfterConnectionLost": "Tried to send data to a client after losing connection",
+		"NetMessageError": "Error on message {0}"
+	}
+}

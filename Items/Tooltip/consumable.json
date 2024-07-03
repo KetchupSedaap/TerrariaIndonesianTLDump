@@ -1,0 +1,63 @@
+{
+	"ItemTooltip": {
+		"ManaCrystal": "Permanently increases maximum mana by 20",
+		"LifeFruit": "Permanently increases maximum life by 5",
+		"LifeCrystal": "Permanently increases maximum life by 20",
+		"CombatBook": "Increases the defense and strength of all villagers\n'Contains offensive and defensive fighting techniques'",
+		"CombatBookVolumeTwo": "Increases the defense and strength of all villagers\n'Contains offensive and defensive fighting techniques, volume two!'",
+		"AegisCrystal": "Permanently boosts life regeneration",
+		"AegisFruit": "Permanently increases defense",
+		"ArcaneCrystal": "Permanently increases mana regeneration",
+		"GalaxyPearl": "Permanently increases luck",
+		"GummyWorm": "Permanently increases fishing skill",
+		"Ambrosia": "Permanently increases mining and building speed",
+		"PeddlersSatchel": "Permanently increases items sold by the Traveling Merchant",
+
+		"WormholePotion": "Teleports you to a party member\nClick their head on the fullscreen map",
+		
+		"JungleKey": "Unlocks a Jungle Chest in the dungeon",
+		"CorruptionKey": "Unlocks a Corruption Chest in the dungeon",
+		"CrimsonKey": "Unlocks a Crimson Chest in the dungeon",
+		"HallowedKey": "Unlocks a Hallowed Chest in the dungeon",
+		"FrozenKey": "Unlocks an Ice Chest in the dungeon",
+		"DungeonDesertKey": "Unlocks a Desert Chest in the dungeon",
+
+		"TempleKey": "Opens the jungle temple door",
+		"GoldenKey": "Opens one locked Gold Chest or Lock Box",
+		"ShadowKey": "Opens all Shadow Chests and Obsidian Lock Boxes",
+		"LockBox": "{$CommonItemTooltip.RightClickToOpen}\nMemerlukan {$ItemName.GoldenKey}",
+		"ObsidianLockbox": "{$CommonItemTooltip.RightClickToOpen}\nMemerlukan {$ItemName.ShadowKey}",
+
+		"StrangePlant1": "Dapat ditukar dengan pewarna eksotis",
+		"StrangePlant2": "Dapat ditukar dengan pewarna eksotis",
+		"StrangePlant3": "Dapat ditukar dengan pewarna eksotis",
+		"StrangePlant4": "Dapat ditukar dengan pewarna eksotis",
+
+		"PurificationPowder": "Cleanses the evil",
+		"VilePowder": "Spreads the Corruption",
+		"ViciousPowder": "Spreads the Crimson",
+
+		"HolyWater": "Spreads the Hallow to some blocks",
+		"UnholyWater": "Spreads the Corruption to some blocks",
+		"BloodWater": "Spreads the Crimson to some blocks",
+
+		"LihzahrdPowerCell": "Used at the Lihzahrd Altar",
+		"Abeemination": "Summons the Queen Bee",
+		"PumpkinMoonMedallion": "Summons the Pumpkin Moon",
+		"SlimeCrown": "Summons King Slime",
+		"SuspiciousLookingEye": "Summons the Eye of Cthulhu",
+		"WormFood": "Summons the Eater of Worlds",
+		"BloodySpine": "Summons the Brain of Cthulhu",
+		"DeerThing": "Summons Deerclops",
+		"QueenSlimeCrystal": "Summons Queen Slime",
+		"MechanicalEye": "Summons The Twins",
+		"MechanicalWorm": "Summons The Destroyer",
+		"MechanicalSkull": "Summons Skeletron Prime",
+		"CelestialSigil": "Summons the Impending Doom",
+		"GoblinBattleStandard": "Summons a Goblin Army",
+		"PirateMap": "Summons a pirate invasion",
+		"SolarTablet": "Summons the Eclipse",
+		"SnowGlobe": "Summons the Frost Legion",
+		"NaughtyPresent": "Summons the Frost Moon"
+	}
+}

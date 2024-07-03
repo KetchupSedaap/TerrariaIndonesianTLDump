@@ -1,0 +1,31 @@
+{
+	"LegacyMultiplayer": {
+		"0": "Receive:",
+		"1": "Incorrect password",
+		"2": "Invalid operation at this state.",
+		"3": "You are banned from this server.",
+		"4": "You are not using the same version as this server.",
+		"5": "{0} sudah ada di server ini.",
+		"6": "\/playing",
+		"7": "Pmain saat ini:",
+		"8": "\/roll",
+		"9": "rolls a",
+		"10": "You are not in a party!",
+		"11": "{0} has enabled PvP!",
+		"12": "{0} has disabled PvP!",
+		"13": "{0} is no longer on a party.",
+		"14": "{0} has joined the red party.",
+		"15": "{0} has joined the green party.",
+		"16": "{0} has joined the blue party.",
+		"17": "{0} has joined the yellow party.",
+		"18": "Selamat datang di",
+		"19": "{0} telah masuk.",
+		"20": "{0} telah keluar.",
+		"21": "\/players",
+		"22": "{0} has joined the pink party.",
+		"23": "*{0} terbunuh {1} kali.",
+		"24": "*{0} terbunuh oleh pemain lain {1} kali.",
+		"25": "*{0} terbunuh {1} kali.",
+		"26": "*{0} terbunuh oleh pemain lain {1} kali."
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"LucyTheAxe_Idle":
+	{
+		"1": "Hey! Chop some trees!",
+		"2": "This is perfect chopping weather.",
+		"3": "Chop chop chop. Heh.",
+		"4": "We make a good team!",
+		"5": "Let's find a small grove and just go nuts!"
+	},
+	"LucyTheAxe_Storage":
+	{
+		"1": "This sucks.",
+		"2": "It's dark in here!",
+		"3": "Help! Get me out!",
+		"4": "There's nothing to chop in here!",
+		"5": "I'm claustrophobic!"
+	},
+	"LucyTheAxe_ThrownAway":
+	{
+		"1": "You'll come back, right?",
+		"2": "Hey! I'd never throw you away!",
+		"3": "Don't forget about me!",
+		"4": "Aren't we friends?",
+		"5": "You're abandoning me?!"
+	},
+	"LucyTheAxe_PickedUp":
+	{
+		"1": "Oh, thank goodness!",
+		"2": "From now on we'll be inseparable.",
+		"3": "Ahh, I'm back where I belong."
+	},
+	"LucyTheAxe_ChoppedTree":
+	{
+		"1": "Again! Let's chop another!",
+		"2": "This is AWESOME!",
+		"3": "Die! Die!",
+		"4": "This is what I live for!",
+		"5": "Stupid tree!",
+		"6": "I feel ALIVE!",
+		"7": "We did it!",
+		"8": "HaHAHA!",
+		"9": "Woooooo!",
+		"10": "YEEEESS!"
+	},
+	"LucyTheAxe_GemTree":
+	{
+		"1": "So, stone trees . . . what's up with that?"
+	},
+	"LucyTheAxe_ChoppedCactus":
+	{
+		"1": "When you think about it, cacti are just prickly trees!"
+	},
+	"StardewTalk":
+	{
+		"PlayerHasColaButIsNotHoldingIt": "What's that you have... Joja Cola? Please hold it out, show me!",
+		"PlayerHasColaAndIsHoldingIt": "This unnatural beverage you hold has a connection to another world... I can try to purify it if you like.",
+		"GiveColaButtonText": "Purify",
+		"PlayerGivesCola": "I'm sensing a pure spirit through the connection, it wants to thank you for disposing of the Joja Cola!"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"Currency": {
+		"Platinum": "Platinum",
+		"Gold": "Gold",
+		"Silver": "Silver",
+		"Copper": "Copper",
+		"DefenderMedals": "Defender Medal"
+	}
+}

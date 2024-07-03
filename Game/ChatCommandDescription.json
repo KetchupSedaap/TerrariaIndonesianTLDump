@@ -1,0 +1,15 @@
+{
+	"ChatCommandDescription": {
+		"Party": "{$ChatCommand.Party} message: Send the message to your party members",
+		"Emote": "{$ChatCommand.Emote} message: Send the message in third-person perspective",
+		"Playing": "{$ChatCommand.Playing_0}: List the names of all players on the server",
+		"Roll": "{$ChatCommand.Roll}: Roll a number from 1 to 100",
+		"Emoji": "{$ChatCommand.Emoji_1} #: Show an emoji",
+		"Help": "{$ChatCommand.Help}: Lists all the commands you can use",
+		"RPS": "{$ChatCommand.RPS}: Randomly uses a Rock, Paper, or Scissors emote",
+		"Death": "{$ChatCommand.Death}: Shows your number of deaths",
+		"PVPDeath": "{$ChatCommand.PVPDeath}: Shows your number of PVP deaths",
+		"AllDeath": "{$ChatCommand.AllDeath}: Shows everyone's number of deaths",
+		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}: Shows everyone's number of PVP deaths"
+	}
+}

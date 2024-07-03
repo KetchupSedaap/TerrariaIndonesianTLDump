@@ -1,0 +1,72 @@
+{
+	"ItemTooltip": {
+		"RifleScope": "Meningkatkan jangkauan penglihatan untuk senjata api\n<right> untuk [zoom out]",
+		"MagmaStone": "Serangan melee membakar musuh",
+		"RoyalGel": "Slime tidak akan melukai pemakainya",
+		"NightVisionHelmet": "Improves vision",
+		"ShinyStone": "Greatly increases life regen when not moving",
+		"SporeSac": "Secara berkala memunculkan spora yang akan menyerang musuh",
+		"BoneGlove": "Melemparkan [crossbone] ketika pemakainya menyerang",
+		"VolatileGelatin": "Secara berkala melemparkan volatile gelatin kepada musuh",
+
+		"HiveBackpack": "Meningkatkan kekuatan dari lebah [friendly]",
+
+		"ObsidianSkull": "Memberikan kekebalan terhadap blok membakar",
+		"HandWarmer": "Memberikan kekebalan terhadap efek chill dan freezing",
+		"AdhesiveBandage": "Memberikan kekebalan terhadap {$BuffName.Bleeding}",
+		"ArmorPolish": "Memberikan kekebalan terhadap {$BuffName.BrokenArmor}",
+		"Bezoar": "Memberikan kekebalan terhadap {$BuffName.Poisoned}",
+		"Blindfold": "Memberikan kekebalan terhadap {$BuffName.Darkness}",
+		"FastClock": "Memberikan kekebalan terhadap {$BuffName.Slow}",
+		"Megaphone": "Memberikan kekebalan terhadap {$BuffName.Silenced}",
+		"Nazar": "Memberikan kekebalan terhadap {$BuffName.Cursed}",
+		"Vitamins": "Memberikan kekebalan terhadap {$BuffName.Weak}",
+		"TrifoldMap": "Memberikan kekebalan terhadap {$BuffName.Confused}",
+		"PocketMirror": "Memberikan kekebalan terhadap {$BuffName.Stoned}",
+		"ArmorBracing": "Memberikan kekebalan terhadap {$BuffName.Weak} dan {$BuffName.BrokenArmor}",
+		"MedicatedBandage": "Memberikan kekebalan terhadap {$BuffName.Poisoned} dan {$BuffName.Bleeding}",
+		"ThePlan": "Memberikan kekebalan terhadap {$BuffName.Slow} dan {$BuffName.Confused}",
+		"CountercurseMantra": "Memberikan kekebalan terhadap {$BuffName.Silenced} dan {$BuffName.Cursed}",
+		"ReflectiveShades": "Memberikan kekebalan terhadap {$BuffName.Darkness} dan {$BuffName.Stoned}",
+		"AnkhCharm": "Memberikan kekebalan terhadap sebagian besar debuff",
+		"AnkhShield": "Memberikan kekebalan terhadap knockback dan blok membakar\nMemberikan kekebalan terhadap sebagian besar debuff",
+		"ObsidianHorseshoe": "Meniadakan fall damage\nMemberikan kekebalan terhadap blok membakar",
+		"ObsidianShield": "Memberikan kekebalan terhadap knockback dan blok membakar",
+
+		"StarCloak": "Causes stars to fall after taking damage",
+		"SweetheartNecklace": "Melepaskan lebah, melumuri pemakainya dengan madu, dan meningkatkan kecepatan gerak saat terluka",
+		"PanicNecklace": "Meningkatkan kecepatan gerak setelah menerima damage",
+		"HoneyComb": "Melepaskan lebah dan melumuri pemakainya dengan madu saat terluka",
+		"BeeCloak": "Menjatuhkan bintang, melepaskan lebah, dan melumuri pemakainya dengan madu saat terluka",
+		"HoneyBalloon": "Meningkatkan tinggi loncatan\nMelepaskan lebah dan melumuri pemakainya dengan madu saat terluka",
+		"CrossNecklace": "Increases length of invincibility after taking damage",
+		"StarVeil": "Causes stars to fall and increases length of invincibility after taking damage",
+
+		"FleshKnuckles": "Enemies are more likely to target you",
+
+		"YoyoBag": "Gives the user master yoyo skills",
+		"YoYoGlove": "Memungkinkan penggunaan dua yoyo sekaligus",
+
+		"EoCShield": "Memberikan kemampuan untuk melakukan dash yang dapat menabrak musuh\n[Double tap a direction]",
+		"ClimbingClaws": "Memberikan kemampuan untuk merosot pada tembok\nKemampuan ditingkatkan apabila dipakai bersamaan dengan {$ItemName.ShoeSpikes}",
+		"BlackBelt": "Memberikan peluang untuk menghindari serangan",
+		"ShoeSpikes": "Memberikan kemampuan untuk merosot pada tembok\nKemampuan ditingkatkan apabila dipakai bersamaan dengan {$ItemName.ClimbingClaws}",
+		"TigerClimbingGear": "Memberikan kemampuan untuk memanjat tembok",
+		"Tabi": "Memberikan kemampuan untuk melakukan dash\n[Double tap a direction]",
+		"MasterNinjaGear": "Memberikan kemampuan untuk memanjat tembok dan melakukan dash\nMemberikan peluang untuk menghindari serangan",
+		
+		"CelestialShell": "Mengubah pemakainya menjadi werewolf pada malam\nMengubah pemakainya menjadi merfolk ketika memasuki air\nMemberikan peningkatan kepada damage, melee speed, \npeluang serangan critical, regenerasi health,\ndefense, mining speed, dan knockback minion",
+		"CelestialStone": "Memberikan peningkatan kepada damage, melee speed, \npeluang serangan critical, regenerasi health,\ndefense, mining speed, dan knockback minion",
+		"MoonCharm": "Mengubah pemakainya menjadi werewolf pada malam",
+		"BandofRegeneration": "Perlahan meregenerasi health",
+		"NeptunesShell": "Mengubah pemakainya menjadi merfolk ketika memasuki air",
+		"MoonShell": "Mengubah pemakainya menjadi werewolf pada malam dan merfolk ketika memasuki air",
+		"SunStone": "Pada siang hari, memberikan peningkatan kepada damage,\nmelee speed, peluang serangan critical, regenerasi health,\ndefense, mining speed, dan knockback minion",
+		"MoonStone": "Pada malam hari, memberikan peningkatan kepada damage,\nmelee speed, peluang serangan critical, regenerasi health,\ndefense, mining speed, dan knockback minion",
+		
+		"MagicCuffs": "Meningkatkan mana maksimum sebanyak 20\nMemulihkan mana saat terluka",
+		"ManaRegenerationBand": "Meningkatkan mana maksimum sebanyak 20\nMeningkatkan kecepatan regenerasi mana",
+		"CelestialMagnet": "Meningkatkan jangkauan pengambilan mana star"
+
+	}
+}

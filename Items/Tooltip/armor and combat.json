@@ -1,0 +1,275 @@
+{
+	"ItemTooltip": {
+		"PygmyNecklace": "Menambah kapasitas minion-mu sebanyak 1",
+		"HerculesBeetle": "Increases summon damage by 15%\nIncreases the knockback of your minions",
+		"NecromanticScroll": "Increases your max number of minions by 1\nIncreases summon damage by 10%",
+		"PapyrusScarab": "Increases your max number of minions by 1\nIncreases your summon damage by 15% and the knockback of your minions",
+		
+		"FrozenTurtleShell": "Puts a shell around the owner when below 50% life that reduces damage by 25%",
+		"PaladinsShield": "Absorbs 25% of damage done to players on your team when above 25% life\nGrants immunity to knockback",
+		"FrozenShield": "Grants immunity to knockback\nPuts a shell around the owner when below 50% life that reduces damage by 25%\nAbsorbs 25% of damage done to players on your team when above 25% life",
+		"HeroShield": "Grants immunity to knockback\nAbsorbs 25% of damage done to players on your team when above 25% life\nEnemies are more likely to target you",
+
+		"MagicQuiver": "Increases arrow damage by 10% and greatly increases arrow speed\n20% chance to not consume arrows",
+		"MoltenQuiver": "Increases arrow damage by 10% and greatly increases arrow speed\n20% chance not to consume arrows\nLights wooden arrows ablaze\n'Quiver in fear!'",
+		"StalkersQuiver": "Increases arrow damage by 10% and greatly increases arrow speed\n20% chance not to consume arrows\nEnemies are less likely to target you",
+
+		"CelestialCuffs": "Increases pickup range for mana stars\nRestores mana when damaged\nIncreases maximum mana by 20",
+		
+		"ApprenticeScarf": "{$ItemTooltip.HuntressBuckler}",
+		"SquireShield": "{$ItemTooltip.HuntressBuckler}",
+		"MonkBelt": "{$ItemTooltip.HuntressBuckler}",
+		"HuntressBuckler": "Increase your max number of sentries by 1\nIncreases summon damage by 10%",
+
+		"EyeoftheGolem": "10% increased critical strike chance",
+		"WarriorEmblem": "15% increased melee damage",
+		"RangerEmblem": "15% increased ranged damage",
+		"SorcererEmblem": "15% increased magic damage",
+		"SummonerEmblem": "15% increased summon damage",
+		"AvengerEmblem": "12% increased damage",
+		"CelestialEmblem": "Increases pickup range for mana stars\n15% increased magic damage",
+		"DestroyerEmblem": "10% increased damage\n8% increased critical strike chance",
+		"SniperScope": "Increases view range for guns (<right> to zoom out)\n10% increased ranged damage and critical strike chance",
+		"ReconScope": "Increases view range for guns (<right> to zoom out)\n10% increased ranged damage and critical strike chance\nEnemies are less likely to target you\n'Enemy spotted'",
+
+		"FeralClaws": "12% increased melee speed\nEnables auto swing for melee weapons",
+		"BerserkerGlove": "Increases melee knockback\n12% increased melee speed\nEnables auto swing for melee weapons\nIncreases the size of melee weapons\nEnemies are more likely to target you",
+		"TitanGlove": "Increases melee knockback\nIncreases the size of melee weapons",
+		"PowerGlove": "Increases melee knockback\n12% increased melee speed\nEnables auto swing for melee weapons\nIncreases the size of melee weapons",
+		"MechanicalGlove": "Increases melee knockback\n12% increased melee damage and speed\nEnables auto swing for melee weapons\nIncreases the size of melee weapons",
+		"FireGauntlet": "Increases melee knockback and melee attacks inflict fire damage\n12% increased melee damage and speed\nEnables auto swing for melee weapons\nIncreases the size of melee weapons",
+
+		"NaturesGift": "6% reduced mana cost",
+		"ManaFlower": "8% reduced mana cost\nAutomatically use mana potions when needed",
+		"ArcaneFlower": "8% reduced mana cost\nAutomatically use mana potions when needed\nEnemies are less likely to target you",
+		"MagnetFlower": "8% reduced mana cost\nAutomatically use mana potions when needed\nIncreases pickup range for mana stars",
+		"ManaCloak": "8% reduced mana cost\nAutomatically use mana potions when needed\nCauses stars to fall after taking damage\nStars restore mana when collected",
+
+		"PutridScent": "Enemies are less likely to target you\n5% increased damage and critical strike chance",
+		"WormScarf": "Reduces damage taken by 17%",
+		"BrainOfConfusion": "Has a chance to create illusions and dodge an attack\nTemporarily increase critical chance after dodge\nMay confuse nearby enemies after being struck",
+
+		"PhilosophersStone": "Reduces the cooldown of healing potions by 25%",
+		"CharmofMyths": "Provides life regeneration and reduces the cooldown of healing potions by 25%",
+
+		"SharkToothNecklace": "Increases armor penetration by 5",
+		"StingerNecklace": "Increases armor penetration by 5\nReleases bees and douses the user in honey when damaged",
+		
+		"ShadowGreaves": "5% increased critical strike chance",
+		"ShadowScalemail": "5% increased critical strike chance",
+		"ShadowHelmet": "5% increased critical strike chance",
+		"AncientShadowHelmet": "5% increased critical strike chance",
+		"AncientShadowScalemail": "5% increased critical strike chance",
+		"AncientShadowGreaves": "5% increased critical strike chance",
+
+		"TurtleHelmet": "6% increased melee damage\nEnemies are more likely to target you",
+		"TurtleScaleMail": "8% increased melee damage and critical strike chance\nEnemies are more likely to target you",
+		"TurtleLeggings": "4% increased melee critical strike chance\nEnemies are more likely to target you",
+
+		"ChlorophyteMask": "16% increased melee damage\n6% increased melee critical strike chance",
+		"ChlorophyteHelmet": "16% increased ranged damage\n20% chance to save ammo",
+		"ChlorophyteHeadgear": "Increases maximum mana by 80 and 17% reduced mana cost\n16% increased magic damage",
+		"ChlorophytePlateMail": "5% increased damage\n7% increased critical strike chance",
+		"ChlorophyteGreaves": "8% increased critical strike chance\n5% increased movement speed",
+
+		"CobaltHat": "Increases maximum mana by 40\n10% increased magic damage\n9% increased magic critical strike chance",
+		"CobaltHelmet": "10% increased movement speed\n15% increased melee damage",
+		"CobaltMask": "10% increased ranged damage\n10% increased ranged critical strike chance",
+		"CobaltBreastplate": "5% increased critical strike chance",
+		"CobaltLeggings": "10% increased movement speed and 3% increased damage",
+
+		"MythrilHood": "Increases maximum mana by 60\n15% increased magic damage",
+		"MythrilHelmet": "8% increased melee critical strike chance\n10% increased melee damage",
+		"MythrilHat": "12% increased ranged damage\n7% increased ranged critical strike chance",
+		"MythrilChainmail": "7% increased damage",
+		"MythrilGreaves": "10% increased critical strike chance",
+
+		"AdamantiteHeadgear": "Increases maximum mana by 80\n12% increased magic damage and critical strike chance",
+		"AdamantiteHelmet": "7% increased melee critical strike chance\n14% increased melee damage",
+		"AdamantiteMask": "14% increased ranged damage\n10% increased ranged critical strike chance",
+		"AdamantiteBreastplate": "8% increased damage",
+		"AdamantiteLeggings": "7% increased critical strike chance\n5% increased movement speed",
+
+		"TikiMask": "Increases your max number of minions by 1\nIncreases summon damage by 10%\nIncreases whip range by 10%",
+		"TikiShirt": "Increases your max number of minions by 1\nIncreases summon damage by 10%",
+		"TikiPants": "Increases your max number of minions by 1\nIncreases summon damage by 10%",
+
+		"PalladiumMask": "12% increased melee damage\n12% increased melee speed",
+		"PalladiumHelmet": "9% increased ranged damage\n9% increased ranged critical strike chance",
+		"PalladiumHeadgear": "9% increased magic damage and critical strike chance\nIncreases maximum mana by 60",
+		"PalladiumBreastplate": "3% increased damage\n2% increased critical strike chance",
+		"PalladiumLeggings": "2% increased damage\n1% increased critical strike chance",
+
+		"OrichalcumMask": "11% increased melee damage and melee speed\n7% increased movement speed",
+		"OrichalcumHelmet": "15% increased ranged critical strike chance\n8% increased movement speed",
+		"OrichalcumHeadgear": "18% increased magic critical strike chance\nIncreases maximum mana by 80",
+		"OrichalcumBreastplate": "6% increased critical strike chance",
+		"OrichalcumLeggings": "8% increased damage and 11% increased movement speed",
+
+		"TitaniumMask": "9% increased melee damage and critical strike chance\n9% increased melee speed",
+		"TitaniumHelmet": "16% increased ranged damage\n7% increased ranged critical strike chance",
+		"TitaniumHeadgear": "16% increased magic damage and 7% increased magic critical strike chance\nIncreases maximum mana by 100",
+		"TitaniumBreastplate": "4% increased damage\n3% increased critical strike chance",
+		"TitaniumLeggings": "3% increased damage and critical strike chance\n6% increased movement speed",
+
+		"MeteorHelmet": "9% increased magic damage",
+		"MeteorSuit": "9% increased magic damage",
+		"MeteorLeggings": "9% increased magic damage",
+
+		"AmethystRobe": "Increases maximum mana by 20\n5% reduced mana cost",
+		"TopazRobe": "Increases maximum mana by 40\n7% reduced mana cost",
+		"SapphireRobe": "Increases maximum mana by 40\n9% reduced mana cost",
+		"EmeraldRobe": "Increases maximum mana by 60\n11% reduced mana cost",
+		"RubyRobe": "Increases maximum mana by 60\n13% reduced mana cost",
+		"AmberRobe": "Increases maximum mana by 60\n13% reduced mana cost",
+		"DiamondRobe": "Increases maximum mana by 80\n15% reduced mana cost",
+
+		"ShroomiteHeadgear": "Increases bow damage by 15%\n5% increased ranged critical strike chance",
+		"ShroomiteMask": "Increases gun damage by 15%\n5% increased ranged critical strike chance",
+		"ShroomiteHelmet": "Increases specialist ranged damage by 15%\nThese are launchers, dartguns, or anything else that doesn't shoot arrows\/bullets\n5% increased ranged critical strike chance",
+		"ShroomiteBreastplate": "13% increased ranged damage & critical strike chance\n20% chance to save ammo",
+		"ShroomiteLeggings": "7% increased ranged critical strike chance\n12% increased movement speed",
+
+		"SpookyHelmet": "Increases your max number of minions by 1\nIncreases summon damage by 11%",
+		"SpookyBreastplate": "Increases your max number of minions by 2\nIncreases summon damage by 11%",
+		"SpookyLeggings": "Increases your max number of minions by 1\nIncreases summon damage by 11%\n20% increased movement speed",
+		
+		"BeetleHelmet": "6% increased melee damage\nEnemies are more likely to target you",
+		"BeetleScaleMail": "8% increased melee damage and critical strike chance\n6% increased movement and melee speed",
+		"BeetleShell": "5% increased melee damage and critical strike chance\nEnemies are more likely to target you",
+		"BeetleLeggings": "6% increased movement and melee speed\nEnemies are more likely to target you",
+
+		"MagicHat": "6% increased magic damage and critical strike chance",
+		"Gi": "5% increased damage and critical strike chance\n10% increased melee and movement speed",
+		"GypsyRobe": "6% increased magic damage and critical strike chance\n10% reduced mana cost",
+
+		"JungleHat": "Increases maximum mana by 40\n6% increased magic critical strike chance",
+		"JungleShirt": "Increases maximum mana by 20\n6% increased magic damage",
+		"JunglePants": "Increases maximum mana by 20\n6% increased magic critical strike chance",
+		"AncientCobaltHelmet": "Increases maximum mana by 40\n6% increased magic critical strike chance",
+		"AncientCobaltBreastplate": "Increases maximum mana by 20\n6% increased magic damage",
+		"AncientCobaltLeggings": "Increases maximum mana by 20\n6% increased magic critical strike chance",
+
+		"BeeHeadgear": "Increases summon damage by 4%\nIncreases your max number of minions by 1",
+		"BeeBreastplate": "Increases summon damage by 4%\nIncreases your max number of minions by 1",
+		"BeeGreaves": "Increases summon damage by 5%",
+
+		"AnglerHat": "Increases fishing power by 5",
+		"AnglerVest": "Increases fishing power by 5",
+		"AnglerPants": "Increases fishing power by 5",
+
+		"SpiderMask": "Increases your max number of minions by 1\nIncreases summon damage by 5%",
+		"SpiderBreastplate": "Increases your max number of minions by 1\nIncreases summon damage by 5%",
+		"SpiderGreaves": "Increases your max number of minions by 1\nIncreases summon damage by 6%",
+		
+		"WizardHat": "5% increased magic damage",
+
+		"SpectreRobe": "7% increased magic damage and critical strike chance",
+		"SpectrePants": "8% increased magic damage\n8% increased movement speed",
+		"SpectreMask": "Increases maximum mana by 60 and 13% reduced mana cost\n10% increased magic damage and critical strike chance",
+		
+		"HallowedPlateMail": "7% increased critical strike chance",
+		"HallowedGreaves": "7% increased damage\n8% increased movement speed",
+		"HallowedHelmet": "15% increased ranged damage\n8% increased ranged critical strike chance",
+		"HallowedHeadgear": "Increases maximum mana by 100\n12% increased magic damage and critical strike chance",
+		"HallowedMask": "10% increased melee damage and critical strike chance\n10% increased melee speed",
+		"HallowedHood": "Increases your max number of minions by 1\nIncreases summon damage by 10%",
+		"AncientHallowedMask": "10% increased melee damage and critical strike chance\n10% increased melee speed",
+		"AncientHallowedHelmet": "15% increased ranged damage\n8% increased ranged critical strike chance",
+		"AncientHallowedHeadgear": "Increases maximum mana by 100\n12% increased magic damage and critical strike chance",
+		"AncientHallowedHood": "Increases your max number of minions by 1\nIncreases summon damage by 10%",
+		"AncientHallowedPlateMail": "7% increased critical strike chance",
+		"AncientHallowedGreaves": "7% increased damage\n8% increased movement speed",
+
+		"FrostHelmet": "16% increased melee and ranged damage",
+		"FrostBreastplate": "11% increased melee and ranged critical strike chance",
+		"FrostLeggings": "8% increased movement speed\n10% increased melee speed",
+
+		"CrimsonHelmet": "3% increased damage",
+		"CrimsonScalemail": "3% increased damage",
+		"CrimsonGreaves": "3% increased damage",
+
+		"AncientBattleArmorHat": "15% increased magic and summon damage",
+		"AncientBattleArmorShirt": "Increases maximum mana by 40\n10% increased summon damage\nIncreases your max number of minions by 1",
+		"AncientBattleArmorPants": "Increases maximum mana by 40\n10% increased magic damage\nIncreases your max number of minions by 1",
+
+		"NebulaBreastplate": "9% increased magic damage and critical strike chance",
+		"NebulaHelmet": "Increases maximum mana by 60 and 15% reduced mana cost\n7% increased magic damage and critical strike chance",
+		"NebulaLeggings": "10% increased magic damage\n10% increased movement speed",
+
+		"SolarFlareBreastplate": "29% increased melee damage\nGrants minor life regeneration\nEnemies are more likely to target you",
+		"SolarFlareHelmet": "26% increased melee critical strike chance\nGrants minor life regeneration\nEnemies are more likely to target you",
+		"SolarFlareLeggings": "15% increased movement and melee speed\nGrants minor life regeneration\nEnemies are more likely to target you",
+
+		"StardustBreastplate": "Increases your max number of minions by 2\nIncreases summon damage by 22%\nIncreases whip range by 15%",
+		"StardustHelmet": "Increases your max number of minions by 1\nIncreases your max number of sentries by 1\nIncreases summon damage by 22%",
+		"StardustLeggings": "Increases your max number of minions by 2\nIncreases summon damage by 22%\nIncreases whip range by 15%",
+	
+		"VortexBreastplate": "12% increased ranged damage and critical strike chance\n25% chance to save ammo",
+		"VortexHelmet": "16% increased ranged damage\n7% increased ranged critical strike chance",
+		"VortexLeggings": "8% increased ranged damage and critical strike chance\n10% increased movement speed",
+
+		"ApprenticeHat": "Increases your max number of sentries by 1, 10% increased magic damage and 10% reduced mana cost",
+		"ApprenticeRobe": "20% increased summon damage and 10% increased magic damage",
+		"ApprenticeTrousers": "10% increased summon damage, 20% increased magic critical strike chance and movement speed",
+
+		"SquireGreatHelm": "Increases your max number of sentries by 1 and increases your life regeneration",
+		"SquirePlating": "15% increased summon and melee damage",
+		"SquireGreaves": "15% increased summon damage, 15% increased melee critical strike chance and movement speed",
+
+		"MonkBrows": "Increases your max number of sentries by 1 and increases melee speed by 20%",
+		"MonkShirt": "20% increased summon and melee damage",
+		"MonkPants": "10% increased summon damage,\n15% increased melee critical strike chance and 20% increased movement speed",
+
+		"HuntressWig": "Increases your max number of sentries by 1 and increases ranged critical strike chance by 10%",
+		"HuntressJerkin": "20% increased summon and ranged damage and 10% chance to save ammo",
+		"HuntressPants": "10% increased summon damage and 20% increased movement speed",
+
+		"SquireAltHead": "Increases your max number of sentries by 2 and increases summon and melee damage by 10%",
+		"SquireAltShirt": "30% increased summon damage and massively increased life regeneration",
+		"SquireAltPants": "20% increased summon damage and melee critical strike chance\n20% increased movement speed",
+
+		"ApprenticeAltHead": "Increases your max number of sentries by 2\n15% increased summon & magic damage",
+		"ApprenticeAltShirt": "25% increased summon damage and 10% increased magic damage\n15% reduced mana cost",
+		"ApprenticeAltPants": "20% increased summon damage and 25% increased magic critical strike chance\n20% increased movement speed",
+
+		"HuntressAltHead": "Increases your max number of sentries by 2\n10% increased summon damage and ranged critical strike chance",
+		"HuntressAltShirt": "25% increased summon & ranged damage and 20% chance to save ammo",
+		"HuntressAltPants": "25% increased summon damage and 10% increased ranged critical strike chance\n20% increased movement speed",
+
+		"MonkAltHead": "Increases your max number of sentries by 2 and increases summon & melee damage by 20%",
+		"MonkAltShirt": "20% increased summon damage and melee speed\n5% increased melee critical strike chance",
+		"MonkAltPants": "20% increased summon damage and melee critical strike chance\n30% increased movement speed",
+
+		"NecroHelmet": "5% increased ranged damage",
+		"NecroBreastplate": "5% increased ranged damage",
+		"NecroGreaves": "5% increased ranged damage",
+		"AncientNecroHelmet": "5% increased ranged damage",
+
+		"NinjaHood": "3% increased critical strike chance",
+		"NinjaPants": "3% increased critical strike chance",
+		"NinjaShirt": "3% increased critical strike chance",
+
+		"FossilHelm": "4% increased ranged critical strike chance",
+		"FossilShirt": "5% increased ranged damage",
+		"FossilPants": "4% increased ranged critical strike chance",
+
+		"CrystalNinjaHelmet": "5% increased critical strike chance\n10% reduced mana cost",
+		"CrystalNinjaChestplate": "5% increased damage\n10% chance to save ammo",
+		"CrystalNinjaLeggings": "20% increased movement speed\n10% increased melee speed",
+
+		"MoltenHelmet": "7% increased melee critical strike chance",
+		"MoltenBreastplate": "7% increased melee damage",
+		"MoltenGreaves": "7% increased melee speed",
+
+		"ObsidianHelm": "Increases summon damage by 8%",
+		"ObsidianShirt": "Menambah kapasitas minion-mu sebanyak 1",
+		"ObsidianPants": "Increases summon damage by 8%",
+
+		"FlinxFurCoat": "Increases summon damage by 5%\nIncreases your max number of minions by 1",
+
+		"MiningHelmet": "Provides light when worn",
+		"MiningShirt": "10% increased mining speed",
+		"MiningPants": "10% increased mining speed"
+	}
+}

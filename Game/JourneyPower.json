@@ -1,0 +1,102 @@
+{
+	"CreativePowers": {
+		"InfiniteItemSacrificeShortDescription": "Meriset <item name> akan menghabiskannya",
+		"ConfirmInfiniteItemSacrifice": "Riset",
+		"ItemWasJustUnlockedInfinitely": "Jika sudah cukup <item name> yang diriset, item itu akan tersedia tanpa batas!",
+		"InfiniteItemsCategoryClosed": "Buka Menu Duplikasi",
+		"InfiniteItemsCategoryOpened": "Tutup Menu Duplikasi",
+		"InfiniteItemsCategory": "Riset Barang Tak Terbatas",
+
+		"ResearchItemsCategoryClosed": "Buka Menu Riset",
+		"ResearchItemsCategoryOpened": "Tutup Menu Riset",
+
+		"InfinitePlacementRange_Disabled": "Jangkauan Peletakan Normal",
+		"InfinitePlacementRange_Enabled": "Jangkauan Peletakan Ditingkatkan",
+
+		"StopBiomeSpread_Disabled": "Penyebaran Infeksi Aktif",
+		"StopBiomeSpread_Enabled": "Penyebaran Infeksi Nonaktif",
+
+		"DifficultySlider_Closed": "Buka Slider Kesulitan Musuh",
+		"DifficultySlider_Opened": "Tutup Slider Kesulitan Musuh",
+
+		"NPCSpawnRateSlider_Closed": "Buka Slider Spawn Rate Musuh",
+		"NPCSpawnRateSlider_Opened": "Tutup Slider Spawn Rate Musuh",
+
+		"PowersMenuOpen": "Tutup Menu Kekuatan",
+		"PowersMenuClosed": "Buka Menu Kekuatan",
+		"TimeCategoryClosed": "Buka Menu Waktu",
+		"TimeCategoryOpened": "Tutup Menu Waktu",
+		"TimeCategory": "Kekuatan yang terkait dengan pengendalian waktu",
+		"PersonalCategoryClosed": "Buka Menu Kekuatan Pribadi",
+		"PersonalCategoryOpened": "Tutup Menu Kekuatan Pribadi",
+		"PersonalCategory": "Kekuatan yang berkaitan dengan dirimu",
+		"FreezeTime_Disabled": "Waktu Berjalan",
+		"FreezeTime_Enabled": "Waktu Berhenti",
+		"FreezeTime_Description": "Menghentikan jalannya waktu",
+		"StartDayImmediately": "Ubah Waktu ke Fajar",
+		"StartDayImmediately_Description": "Waktu diatur ke pukul 4:30 AM",
+		"StartNightImmediately": "Ubah Waktu ke Senja",
+		"StartNightImmediately_Description": "Waktu diatur ke pukul 7:30 PM",
+		"StartNoonImmediately": "Ubah Waktu ke Tengah Hari",
+		"StartNoonImmediately_Description": "Waktu diatur ke pukul 12:00 PM",
+		"StartMidnightImmediately": "Ubah Waktu ke Tengah Malam",
+		"StartMidnightImmediately_Description": "Waktu diatur ke pukul 12:00 AM",
+		"WeatherCategoryClosed": "Buka Menu Cuaca",
+		"WeatherCategoryOpened": "Tutup Menu Cuaca",
+		"WeatherCategory": "Kekuatan yang terkait dengan pengedalian cuaca",
+		"StartRainImmediately": "Mulai Hujan",
+		"StartRainImmediately_Description": "Akan membuat hujan turun",
+		"StopRainImmediately": "Hentikan Hujan",
+		"StopRainImmediately_Description": "Akan menghentikan hujan",
+		"Godmode_Disabled": "Godmode Nonaktif",
+		"Godmode_Enabled": "Godmode Aktif",
+		"Godmode_Description": "Menjadi kebal terhadap damage!",
+
+		"ModifyWindDirectionAndStrength_Closed": "Buka Slider Kendali Angin",
+		"ModifyWindDirectionAndStrength_Opened": "Tutup Slider Kendali Angin",
+
+		"ModifyTimeRate_Closed": "Buka Slider Kecepatan Waktu",
+		"ModifyTimeRate_Opened": "Tutup Slider Kecepatan Waktu",
+
+		"ModifyRainPower_Opened": "Tutup Slider Kendali Hujan",
+		"ModifyRainPower_Closed": "Buka Slider Kendali Hujan",
+
+		"FreezeRainPower_Disabled": "Perubahan Hujan Aktif",
+		"FreezeRainPower_Enabled": "Perubahan Hujan Nonaktif",
+
+		"FreezeWindDirectionAndStrength_Enabled": "Perubahan Angin Nonaktif",
+		"FreezeWindDirectionAndStrength_Disabled": "Perubahan Angin Aktif",
+
+		"NPCSpawnRateSliderEnemySpawnsDisabled": "Nonaktif",
+
+		"TabSearch": "Jika Dicari",
+		"TabBlocks": "Blok",
+		"TabWeapons": "Senjata",
+		"TabArmor": "Zirah",
+		"TabAccessories": "Aksesori",
+		"TabConsumables": "Consumables",
+		"TabMisc": "Lainnya",
+		"TabMaterials": "Material",
+		"TabFurniture": "Furnitur",
+		"TabTools": "Alat",
+		"TabVanity": "Vanity",
+		"TabAccessoriesMisc": "Perlengkapan",
+
+		"WeatherMonsoon": "Hujan Deras",
+		"WeatherClearSky": "Cerah",
+		"WeatherDrizzle": "Gerimis",
+
+		"WindWest": "Barat",
+		"WindNone": "Tak Berangin",
+		"WindEast": "Timur",
+
+		"ResearchButtonTooltip": "Barang yang diriset dengan lengkap dapat diciptakan dengan bebas",
+
+		"Sort_SortingID": "Dengan ID",
+		"Sort_PlacableObjects": "Placable Objects",
+		"Sort_Walls": "Dinding",
+		"Sort_Blocks": "Blok",
+		"Sort_Alphabetical": "Nama",
+		"CantUsePowerBecauseOfNoPermissionFromServer": "Kamu tidak memiliki izin untuk kekuatan ini"
+	}
+}

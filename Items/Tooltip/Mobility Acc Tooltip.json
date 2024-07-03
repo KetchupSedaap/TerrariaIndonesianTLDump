@@ -1,0 +1,81 @@
+{
+	"ItemTooltip": {
+		
+		"BlizzardinaBalloon": "Allows the holder to double jump\nIncreases jump height",
+		"BundleofBalloons": "Allows the holder to quadruple jump\nIncreases jump height",
+
+		"FishronWings": "{$CommonItemTooltip.FlightAndSlowfall}\nAllows quick travel in water",
+
+		"LongRainbowTrailWings": "{$CommonItemTooltip.FlightAndSlowfall}\n{$CommonItemTooltip.PressDownToHover}\n{$CommonItemTooltip.PressUpToBooster}\n'The more you know'",
+
+
+		"DjinnsCurse": "Grants slow fall in exchange for your feet",
+		
+		"FlameWakerBoots": "Leaves a trail of flames in your wake",
+		"HellfireTreads": "Allows flight\nThe wearer can run super fast\nLeaves a trail of flames in your wake",
+
+		"ObsidianRose": "Reduces damage from touching lava",
+		"FrogLeg": "Increases jump speed and allows auto-jump\nIncreases fall resistance",
+		"HermesBoots": "The wearer can run super fast",
+		"FlurryBoots": "The wearer can run super fast",
+		"SailfishBoots": "The wearer can run super fast",
+		"RocketBoots": "Allows flight",
+		"IceSkates": "Provides extra mobility on ice\nIce will not break when you fall on it",
+		"LuckyHorseshoe": "Negates fall damage\n{$ItemTooltip.GardenGnome}",
+		"AnkletoftheWind": "10% increased movement speed",
+		"Aglet": "5% increased movement speed",
+		"SpectreBoots": "Allows flight\nThe wearer can run super fast",
+		"WaterWalkingBoots": "Provides the ability to walk on water & honey",
+		"LightningBoots": "Allows flight, super fast running\n8% increased movement speed",
+		"FrostsparkBoots": "Allows flight, super fast running, and extra mobility on ice\n8% increased movement speed",
+		"TerrasparkBoots": "Allows flight, super fast running, and extra mobility on ice\n8% increased movement speed\nProvides the ability to walk on water, honey & lava\nGrants immunity to fire blocks and 7 seconds of immunity to lava\nReduces damage from touching lava",
+		
+		"LavaCharm": "Provides 7 seconds of immunity to lava",
+		"LavaSkull": "Provides 7 seconds of immunity to lava\nGrants immunity to fire blocks",
+		"MoltenCharm": "Grants immunity to fire blocks\nProvides 7 seconds of immunity to lava",
+		"ObsidianSkullRose": "Grants immunity to fire blocks\nReduces damage from touching lava",
+		"MoltenSkullRose": "Provides 7 seconds of immunity to lava\nGrants immunity to fire blocks\nReduces damage from touching lava",
+		"ObsidianWaterWalkingBoots": "Provides the ability to walk on water & honey\nGrants immunity to fire blocks",
+		"LavaWaders": "Provides the ability to walk on water, honey & lava\nGrants immunity to fire blocks and 7 seconds of immunity to lava\nReduces damage from touching lava",
+		
+		"AmphibianBoots": "The wearer can run super fast\nIncreases jump speed and allows auto-jump\nIncreases fall resistance",
+
+		"FlowerBoots": "Flowers grow on the grass you walk on",
+		"FairyBoots": "Allows flight\nThe wearer can run super fast\nFlowers grow on the grass you walk on",
+
+		"FlyingCarpet": "Allows the owner to float for a few seconds",
+		"EmpressFlightBooster": "Grants infinite wing and rocket boot flight\nIncreases flight and jump mobility",
+
+		"CloudinaBottle": "Allows the holder to double jump",
+		"SandstorminaBottle": "Allows the holder to do an improved double jump",
+		"TsunamiInABottle": "Allows the holder to double jump",
+		"ShinyRedBalloon": "Increases jump height",
+		"BlizzardinaBottle": "Allows the holder to double jump",
+		"FartinaJar": "Allows the holder to double jump",
+		"SandstorminaBalloon": "Allows the holder to double jump\nIncreases jump height",
+		"CloudinaBalloon": "Allows the holder to double jump\nIncreases jump height",
+		"SharkronBalloon": "Increases jump height\nAllows the holder to double jump",
+		"FartInABalloon": "Allows the holder to double jump\nIncreases jump height",
+		"BlueHorseshoeBalloon": "Allows the holder to double jump\nIncreases jump height and negates fall damage",
+		"WhiteHorseshoeBalloon": "Allows the holder to double jump\nIncreases jump height and negates fall damage",
+		"YellowHorseshoeBalloon": "Allows the holder to double jump\nIncreases jump height and negates fall damage",
+		"BalloonHorseshoeFart": "Allows the holder to double jump\nIncreases jump height and negates fall damage",
+		"BalloonHorseshoeHoney": "Releases bees and douses the user in honey when damaged\nIncreases jump height and negates fall damage",
+		"BalloonHorseshoeSharkron": "Allows the holder to double jump\nIncreases jump height and negates fall damage",
+		"BalloonPufferfish": "Increases jump height",
+
+		"DivingHelmet": "Greatly extends underwater breathing",
+		"Flipper": "Grants the ability to swim",
+		"BreathingReed": "Increases breath time and allows breathing in water",
+		"JellyfishNecklace": "Generates a very subtle glow which becomes more vibrant underwater",
+		"DivingGear": "Grants the ability to swim\nGreatly extends underwater breathing",
+		"JellyfishDivingGear": "Grants the ability to swim and greatly extends underwater breathing\nGenerates a very subtle glow which becomes more vibrant underwater",
+		"ArcticDivingGear": "Grants the ability to swim and greatly extends underwater breathing\nProvides extra mobility on ice\nGenerates a very subtle glow which becomes more vibrant underwater",
+		
+		"FrogFlipper": "Grants the ability to swim\nIncreases jump speed and allows auto-jump\nIncreases fall resistance",
+		"FrogGear": "Grants the ability to swim\nAllows the ability to climb walls\nIncreases jump speed and allows auto-jump\nIncreases fall resistance\n'It ain't easy being green'",
+		"FrogWebbing": "Allows the ability to climb walls\nIncreases jump speed and allows auto-jump\nIncreases fall resistance",
+
+		"GravityGlobe": "Allows the holder to reverse gravity\nPress Up to change gravity"
+	}
+}

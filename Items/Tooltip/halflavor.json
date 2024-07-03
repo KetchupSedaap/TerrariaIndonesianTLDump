@@ -1,0 +1,71 @@
+{
+	"ItemTooltip": {
+		"StrangeBrew": "Dapat Menimbulkan Efek Samping Berikut:\n-Penyembuhan Tak Menentu\n-Potion Sickness Inkonsisten\n-[Brief Periods of Inexplicable Invulnerability]\n'It looks dan smells terrible'",
+		"GlowPaint": "Fully illuminates the coated object\nCan be combined with any other paint or coating\n'What a bright idea!'",
+		"EchoCoating": "Membuat obyek yang dilapis hanya terlihat dengan Echo Sight\nDapat dikombinasi dengan paint atau coating lainnya\n'It's all clear to me now.'",
+		"TreeGlobe": "Lempar untuk mengubah penampilan pohon!\n'Time for a change of scenery'",
+		"WorldGlobe": "Lempar untuk mengubah penampilan dunia!\n'Time for a change of scenery'",
+		"MoonGlobe": "Lempar untuk mengubah penampilan bulan!\n'Time for a change of scenery'",
+		"ChumBucket": "Lempar ke air sampai 3 kali untuk meningkatkan fishing power\n'Plankton!'",
+		"ArtisanLoaf": "[Consume] untuk meningkatkan jangkauan [crafting station] secara permanen\n'Legendary Bread that once reminded Teddy of home'",
+		"MinecartPowerup": "Memberikan peningkatan kecepatan dan laser untuk minecart\n'Free Mechanical Cart included!'",
+		"StickyBomb": "A small explosion that will destroy most tiles\n'Tossing may be difficult.'",
+		"StickyDynamite": "A large explosion that will destroy most tiles\n'Tossing may be difficult.'",
+		"StickyGrenade": "A small explosion that will not destroy tiles\n'Tossing may be difficult.'",
+		"BouncyDynamite": "A large explosion that will destroy most tiles\n'This will prove to be a terrible idea'",
+		
+		"PotionOfReturn": "Teleports you home and creates a portal\nUse portal to return when you are done\n'Good for one round trip!'",
+		
+		"BloodMoonStarter": "Summons the Blood Moon\n'What a horrible night to have a curse.'",
+		"MechdusaSummon": "Memanggil ???\n'Sebaiknya jangan terlalu gegabah'",
+		
+		"DaoofPow": "Dapat menimbulkan confusion\n'Find your inner pieces'",
+		"TentacleSpike": "Menancapkan duri kepada musuh\n'Never grab the pointy end.'",
+		"HamBat": "Grows more powerful the better fed you are\nDefeating enemies temporarily improves healing\n'TIS A WEAPON O' PIG BUTT!'",
+		"BatBat": "Serangan memulihkan 1 health\n'Maybe I could bat some bats with this.'",
+		
+		"PewMaticHorn": "Mengubah peluru menjadi barang-barang acak\n'ALLOWS WIRELESS TRANSFER OF INJURY!'",
+		"BloodRainBow": "Menghujani darah dari langit\n'Reign in Blood'",
+		
+		"WeatherPain": "Mengabaikan 10 point Defense musuh\n'What a pane... heh'",
+		
+		"StardustCellStaff": "Summons a stardust cell to fight for you\n'Cultivate the most beautiful cellular infection'",
+		"StardustDragonStaff": "Summons a stardust dragon to fight for you\n'Who needs a horde of minions when you have a giant dragon?'",
+		"BlandWhip": "4 summon tag damage\n{$CommonItemTooltip.Whips}\n'Die monster!'",
+		"BoneWhip": "7 summon tag damage\n{$CommonItemTooltip.Whips}\nPerforms better against multiple targets than most whips\n'This goes to eleven'",
+		"CoolWhip": "6 summon tag damage\n{$CommonItemTooltip.Whips}\nStrike enemies to summon a friendly snowflake\n'Let me have some of that cool whip'",
+		
+		"GravediggerShovel": "Digs in a bigger area than a pickaxe\nOnly digs up soft tiles\n'Can you dig it?'",
+		"RubblemakerSmall": "Used with materials to place matching rubble\n<right> to toggle placement size\nPress Up\/Down to cycle through styles\n'Not a piledriver nor a placeinator: It's a Rubblemaker'",
+		"RubblemakerMedium": "Used with materials to place matching rubble\n<right> to toggle placement size\nPress Up\/Down to cycle through styles\n'Not a piledriver nor a placeinator: It's a Rubblemaker'",
+		"RubblemakerLarge": "Used with materials to place matching rubble\n<right> to toggle placement size\nPress Up\/Down to cycle through styles\n'Not a piledriver nor a placeinator: It's a Rubblemaker'",
+		
+		"MoonLordLegs": "Slightly increases mobility\n'These might be Steve's'",
+		"UltrabrightHelmet": "Improves vision and provides light when worn\n'The darkness holds no secrets for you'",
+		"SandBoots": "The wearer can run super fast, and even faster on sand\n'Walk without rhythm and you won't attract the worm'",
+		"AncientChisel": "Increases mining speed by 25%\n'Ancient problems require ancient solutions'",
+		"BoneHelm": "Summons shadow hands to attack your foes\n'I've got a headache just looking at it.'",
+		"Magiluminescence": "Meningkatkan kecepatan gerak dan akselerasi\nMemberikan cahaya ketika dikenakan\n'A brief light in my dark life.'",
+		"LuckyCoin": "Musuh terkadang menjatuhkan koin saat diserang\n'I found a coin! It's my lucky day!'",
+		"DontStarveShaderItem": "Allows the user to see the world differently\n'Forbidden Knowledge echoes from the radio...'",
+		"JimsDrone": "Rotate Left\/Right to steer & Press Up to accelerate\n'First rule of Flight Club, we don't talk about Flight Club'",
+		"JimsDroneVisor": "Memungkinkan pemakainya melihat melalui kamera drone-nya\n'Chonky Fishron RC Systems'",
+		
+		"FishMinecart": "Tidak diperlambat oleh air\n'Deal with it'",
+		
+		"ThinIce": "Breaks when fallen on\n'Watch your step'",
+		"Grate": "Cairan dapat melaluinya\nDapat dibuka dan ditutup menggunakan kabel\n'They'rrrre great!'",
+		
+		"TeleportationPylonVictory": "Teleport ke pylon lainnya\nDapat berfungsi di mana saja\n'You must construct additional pylons'",
+		"StinkbugHousingBlocker": "When placed in a home, prevents villagers from moving in\n'Smells like cilantro'",
+		"StinkbugHousingBlockerEcho": "When placed in a home, prevents villagers from moving in\nOnly visible with Echo Sight\n'Smells like expired cilantro'",
+		"ShimmerMonolith": "'Witness a glimpse of the Aether's power.'\nCan be used to manifest or suppress the Aether",
+		
+		"IvyGuitar": "Playable Instrument\n'Property of Dead Man's Sweater'",
+		"CarbonGuitar": "Playable Instrument\n'These licks are spicy'",
+		"DrumStick": "Playable next to Drum Set\n'The coffee is strong...and vulgar'",
+		"PortalGun": "Membuat sepasang portal yang dapat dilewati.\n<left> & <right> untuk memasang portal.\nMeningkatkan momentum dan kecepatan jatuh selama dipegang.\n'Speedy thing goes in, speedy thing comes out.'",
+		"VoidLens": "Memanggil void vault\nBerfungsi sebagai inventory tambahan ketika dibuka\nSelama terbuka, item akan masuk ke dalamnya jika inventory sudah penuh\n{$CommonItemTooltip.RightClickToClose}\n'This pocket dimension is out of this world!'",
+		"ClosedVoidBag": "Memanggil void vault\nBerfungsi sebagai inventory tambahan ketika dibuka\nSelama terbuka, item akan masuk ke dalamnya jika inventory sudah penuh\n{$CommonItemTooltip.RightClickToOpen}\n'This pocket dimension is out of this world!'"
+	}
+}
